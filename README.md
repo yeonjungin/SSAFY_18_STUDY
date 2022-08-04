@@ -22,5 +22,5 @@
 |**주차**|**문제**|마감기한|알고리즘|
 |-|-|-|-|
 |**1주차**|[📃코드보기](https://github.com/yeonjungin/SSAFY_18_STUDY/tree/main/week1)|~2022.08.04|구현|
-|**2주차**|[📃코드보기](https://github.com/yeonjungin/SSAFY_18_STUDY/tree/main/week2)|~2022.08.11|구현|
+|**2주차**|[📃코드보기](https://github.com/yeonjungin/SSAFY_18_STUDY/tree/main/week2)|~2022.08.11|구현, 삼성 A형 기출|
 <br/>
